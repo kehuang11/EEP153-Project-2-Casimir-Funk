@@ -53,5 +53,6 @@ Course Syllabus: https://github.com/ligonteaching/EEP153_Materials/blob/master/R
 https://url-to-interact.herokuapp.com/ - convert github link to datahub link
 
 **Readings**
+
 Stigler (1945), “The Cost of Subsistence”
 Dantzig (1990), “The Diet Problem”
